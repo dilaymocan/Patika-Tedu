@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class q1 {
+public class ortalama {
 
 	public static void main(String[] args) {
 		int matematik, fizik, kimya, turkce, tarih, muzik;
